@@ -11,7 +11,7 @@ Hemsidan följer en enkel struktur baserad på bootstraps column-klasser (12-kol
 Produktkortet kan skapas från grunden med vanlig HTML och CSS, men den nuvarande versionen liknar Bootstrap's produktkort (https://getbootstrap.com/docs/5.0/components/card/). En separat knapp behöver dock läggas till för att ta bort artiklar från kundkorgen.
 
 Färgerna avviker från Bootstraps signaturfärger och är specificerade i Figma-filen. Dessa färger återfinns både på designbordet och som variabler, angivna i HSL-färger. 
-Observera att det finns överflödiga färger från ett tidigare försök med Color System-applikationen, vilka inte används och har ej tagits bort. För klarhet rekommenderas att referera till Figma-filen för exakta färgspecifikationer.
+Observera att det finns överflödiga färger från ett tidigare försök med Color System-applikationen, vilka inte används men har ej tagits bort. För klarhet rekommenderas att referera till Figma-filen för exakta färgspecifikationer.
 
 
 
