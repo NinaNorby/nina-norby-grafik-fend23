@@ -1,7 +1,7 @@
 # Kort presentation av examinationsuppgiften som skapats i FIGMA 
 
+Ny länk: https://www.figma.com/file/jzRU6FsIG21tfoEjZMmPDy/NINA-NORBY-GRAFIK-FEND23?type=design&node-id=0%3A1&mode=design&t=txVQvHZ0DhOLUfPl-1
 
-(Länk https://www.figma.com/file/jzRU6FsIG21tfoEjZMmPDy/NINA-NORBY-GRAFIK-FEND23?type=design&node-id=0%3A1&mode=design&t=kjAseqeafdKA99jr-1)
 
 
 # WEBBPLATSEN:
