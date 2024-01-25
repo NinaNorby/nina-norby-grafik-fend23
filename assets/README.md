@@ -1,10 +1,10 @@
-Kort presentation av examinationsuppgiften som skapats i FIGMA 
+# Kort presentation av examinationsuppgiften som skapats i FIGMA 
 
 
 (Länk https://www.figma.com/file/jzRU6FsIG21tfoEjZMmPDy/NINA-NORBY-GRAFIK-FEND23?type=design&node-id=0%3A1&mode=design&t=kjAseqeafdKA99jr-1)
 
 
-WEBBPLATSEN:
+# WEBBPLATSEN:
 
 Hemsidan följer en enkel struktur baserad på bootstraps column-klasser (12-kolumnsystem) , men man kan självklart frångå bootstrap om man hellre vill skapa sin hemsida från grunden. Trots att den kan utvecklas med "mobil first" principen, presenteras prototypen endast i desktop-format.
 
@@ -16,7 +16,7 @@ Observera att det finns överflödiga färger från ett tidigare försök med Co
 
 
 
-FILFORMAT:
+# FILFORMAT - BILDER :
 
 
 Logga: PNG används för loggan på grund av stöd för genomskinlighet och förlustfri komprimering. Som jag har uppfattat det som är den särskilt lämpligt för logotyper.
