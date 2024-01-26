@@ -1,6 +1,2 @@
-Fontfamily 
-https://fonts.google.com/specimen/Alatsi
-
-<!-- Font family -->
-https://fonts.google.com/specimen/Alatsi
-https://fonts.google.com/specimen/Inter?query=inter
+### Font family 
+[Aatsi](https://fonts.google.com/specimen/Alatsi ) & [Inter](https://fonts.google.com/specimen/Inter?query=inter)
