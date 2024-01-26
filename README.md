@@ -4,19 +4,19 @@
 [Länk till min figma ]( https://www.figma.com/file/jzRU6FsIG21tfoEjZMmPDy/NINA-NORBY-GRAFIK-FEND23?type=design&node-id=118%3A479&mode=design&t=txVQvHZ0DhOLUfPl-1)
 
 
-## WEBBPLATSEN:
+## WEBBPLATSEN
 
 Hemsidan följer en enkel struktur baserad på bootstraps column-klasser (12-kolumnsystem) , men man kan självklart frångå bootstrap om man hellre vill skapa sin hemsida från grunden. Trots att den kan utvecklas med "mobil first" principen, presenteras prototypen endast i desktop-format.
 Webbsidan är responsiv och kan därför visa vyn 
 
-Produktkortet kan skapas från grunden med vanlig HTML och CSS, men den nuvarande versionen liknar Bootstraps produktkort [card komponent ](https://getbootstrap.com/docs/5.0/components/card/). En separat knapp behöver dock läggas till för att ta bort artiklar från kundkorgen.
+Produktkortet kan skapas från grunden med  HTML och CSS, men den nuvarande versionen liknar Bootstraps produktkort ["card" ](https://getbootstrap.com/docs/5.0/components/card/). En separat knapp behöver  läggas till för att skapa funktionen där man kan ta bort artiklar från kundkorgen.
 
 Färgerna avviker från Bootstraps signaturfärger och är specificerade i Figma-filen. Dessa färger återfinns både på designbordet och som variabler, angivna i HSL-färger. 
-Observera att det finns överflödiga färger från ett tidigare försök med Color System-applikationen, vilka inte används men har ej tagits bort. För klarhet rekommenderas att referera till Figma-filen för exakta färgspecifikationer.
+Observera att det finns överflödiga färger från Color System-applikationen, vilkt  inte används men har ej tagits bort. För klarhet rekommenderas att se vilka variabler som satts i Figma-filen vid uppskapande av webbsidoprototypen. 
 
 
 
-## FILFORMAT - BILDER :
+## FILFORMAT - BILDER 
 
 
 **Logga**: PNG används för loggan på grund av stöd för genomskinlighet och förlustfri komprimering. Som jag har uppfattat det som är den särskilt lämpligt för logotyper.
